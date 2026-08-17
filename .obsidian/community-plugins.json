@@ -1,4 +1,7 @@
 [
+  "dataview",
   "templater-obsidian",
-  "obsidian-textgenerator-plugin"
+  "quickadd",
+  "obsidian-git",
+  "obsidian-homepage"
 ]
