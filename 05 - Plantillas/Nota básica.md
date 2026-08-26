@@ -19,3 +19,8 @@ related: []
 - [ ] 
 
 ## Referencias
+
+
+---
+
+Combinar índice con inicio para que sea un sólo cerebro y atar todas las notas sueltas.

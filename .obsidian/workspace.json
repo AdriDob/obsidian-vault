@@ -11,10 +11,14 @@
             "id": "e26cd413c4878a59",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "05 - Plantillas/Nota básica.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nota básica"
             }
           }
         ]
@@ -184,6 +188,10 @@
   },
   "active": "e26cd413c4878a59",
   "lastOpenFiles": [
+    "Mejores app de inversión para el teléfono.md",
+    "07 - Archivos Desktop/INDICE.md",
+    "LICENSE.md",
+    "07 - Archivos Desktop/Yo/Extensiones Brave YouTube.md",
     "04 - Personal/Vision Board Final.md",
     "00 - Inicio/Inicio.md",
     "02 - Finanzas/Cuentas.md",
@@ -217,12 +225,8 @@
     "textgenerator/templates/smartConnections",
     "textgenerator/templates",
     "textgenerator",
-    "copilot/copilot-conversations/License_Configuration_Error@20260625_051637.md",
-    "copilot/copilot-conversations/Eres_mi_Chief_Autonomy_Officer_y_gestor_inteligente_de_este@20260625_042715.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
     "Más",
     "Sin título.canvas",
-    "copilot/copilot-conversations",
-    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md"
+    "copilot/copilot-conversations"
   ]
 }
