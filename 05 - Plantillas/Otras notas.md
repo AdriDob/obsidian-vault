@@ -16,7 +16,7 @@ related: []
 
 ## Pendientes
 
-- [ ] 
+- [x] 
 
 ## Referencias
 

@@ -8,7 +8,7 @@ created: "{{date:YYYY-MM-DD}}"
 ## 🎯 Foco de hoy
 
 ## ✅ Hecho
-- [ ] 
+- [x] 
 
 ## 🔭 En progreso
 
