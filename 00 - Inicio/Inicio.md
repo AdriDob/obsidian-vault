@@ -2,7 +2,7 @@
 title: "Inicio"
 tags: ["inicio", "dashboard", "moc"]
 created: "2026-08-17"
-updated: "2026-08-17"
+updated: "2026-08-28"
 status: "active"
 priority: "high"
 ---
@@ -17,7 +17,23 @@ priority: "high"
 
 ## 💰 Finanzas
 
-[[Cuentas]] · [[Método de cobro Bug Bounty desde Argentina]] · [[OWNEX Payment Network]]
+### 📊 Dashboard & Tracking
+[[Cuentas]] · [[📊 Portfolio Tracker Setup]] · [[💸 Presupuesto y Cashflow System]] · [[📈 Plantillas Estrategia Inversión]] · [[⚡ Automatizaciones Financieras]]
+
+### 🏦 Inversión Argentina (CEDEARs + Bonos + Brokers AR)
+[[📱 Mejores Brokers Móvil Acciones]] · [[🏦 CEDEARs Guía Completa]] · [[📱 Mejores Apps de Inversión para el Teléfono]]
+
+### 🌍 Inversión Internacional (ETFs + Acciones + Brokers Globales)
+[[🌍 Brokers Internacionales para Argentinos]] · [[🧩 Matriz Comparativa Apps Finanzas Completas]]
+
+### 🪙 Cripto & Autocustodia
+[[🔐 Custodia Cripto Wallets Seguridad]] · [[🧩 Matriz Comparativa Apps Finanzas Completas#Caso 3: Cripto]]
+
+### 🇦🇷 Fiscal & Legal (Argentina)
+[[🇦🇷 Guía Fiscal Inversiones Argentina 2026]] · [[Método de cobro Bug Bounty desde Argentina]]
+
+### 📋 Referencias Legacy (Archivadas)
+[[📋 Finanzas Personales - Guía Rápida (Legacy)]] · [[📋 Plan de Trading - Setup PC (Legacy)]]
 
 ## 🚀 Proyectos
 
