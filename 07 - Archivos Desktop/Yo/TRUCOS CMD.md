@@ -1,2 +1,0 @@
-TRUCOS CMD:
-

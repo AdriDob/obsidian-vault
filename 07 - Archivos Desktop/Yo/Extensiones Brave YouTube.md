@@ -1,3 +1,0 @@
--Extensiones de Brave para YouTube music y youtub sin anuncios.
--Estrategia para no pagar crédito de IA.
--Terminar los 3 modelos de agente IA
