@@ -11,10 +11,14 @@
             "id": "e26cd413c4878a59",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "Vacantes laborales - Presencial común.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vacantes laborales - Presencial común"
             }
           }
         ]
@@ -160,14 +164,23 @@
               "icon": "lucide-list",
               "title": "Esquema de VISION BOARD FINAL"
             }
+          },
+          {
+            "id": "c0889679afa28830",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,10 +197,14 @@
   },
   "active": "e26cd413c4878a59",
   "lastOpenFiles": [
+    "Vacantes laborales - Software.md",
+    "Otras vacantes.md",
+    "Vacantes laborales - Presencial común.md",
+    "Resumen ejecutivo.pdf",
+    "LICENSE.md",
     "05 - Plantillas/Nota básica.md",
     "05 - Plantillas/Nota diaria.md",
     "05 - Plantillas/Nota de Bug Bounty.md",
-    "LICENSE.md",
     "05 - Plantillas/Otras notas.md",
     "07 - Archivos Desktop/INDICE.md",
     "00 - Inicio/Inicio.md",
@@ -207,10 +224,6 @@
     "OWNEX/Apuntes de Programación - OWNEX.md",
     "OWNEX",
     "DroppingLabel.md",
-    "MÉTODO DE COBRO BUG BOUNTY DESDE ARG.md",
-    "IDOR - XSS - RCE.md",
-    "Cuentas.md",
-    "VISION BOARD FINAL.md",
     "Misceláneo/fsociety_premium_v5(1).pdf",
     "Misceláneo/Comparación.png",
     "Misceláneo/{96BC3249-5822-414D-BE29-774DF69E5974}.png",
@@ -222,7 +235,6 @@
     "textgenerator/templates",
     "textgenerator",
     "Más",
-    "Sin título.canvas",
-    "copilot/copilot-conversations"
+    "Sin título.canvas"
   ]
 }
