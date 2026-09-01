@@ -11,10 +11,14 @@
             "id": "e26cd413c4878a59",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "Trámites.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trámites"
             }
           }
         ]
@@ -193,6 +197,7 @@
   },
   "active": "e26cd413c4878a59",
   "lastOpenFiles": [
+    "Trámites.md",
     "Vacantes laborales - Presencial común.md",
     "Vacantes laborales - Software.md",
     "Otras vacantes.md",
