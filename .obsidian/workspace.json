@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trámites.md",
+                "file": "Otras notas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trámites"
+              "title": "Otras notas"
             }
           }
         ]
@@ -198,6 +198,7 @@
   "active": "e26cd413c4878a59",
   "lastOpenFiles": [
     "Trámites.md",
+    "Otras notas.md",
     "Vacantes laborales - Presencial común.md",
     "Vacantes laborales - Software.md",
     "Otras vacantes.md",
@@ -224,7 +225,6 @@
     "OWNEX/Apuntes de aprendizaje - OWNEX.md",
     "OWNEX/Apuntes de Programación - OWNEX.md",
     "OWNEX",
-    "DroppingLabel.md",
     "Misceláneo/fsociety_premium_v5(1).pdf",
     "Misceláneo/Comparación.png",
     "Misceláneo/{96BC3249-5822-414D-BE29-774DF69E5974}.png",
